@@ -3,10 +3,10 @@
 	"android_url" : "",
 	"ios_ver" : "1.0.0",
 	"ios_url" : "http://www.zfyx9.com/iosdl/",
-	"zipurl" : "",
-	"zipmd5" : "1DA40E99554EF52F1F54714D53C3AB02",
-	"dirurl":"http://129.204.100.168:35500/hy",
-	"fileListMD5":"8D5CC6FFF8438FA2B0C3F65DE0E66B28"
+	"zipurl" : "http://entry.zfyx9.com/game.zip",
+	"zipmd5" : "988BA70B18FBBAE2DE1CA786A28ACDA8",
+	"dirurl":"http://entry.zfyx9.com",
+	"fileListMD5":"F3C4DDC6367EE9D5E5AC276BE28BBE2D"
 }
 
 
